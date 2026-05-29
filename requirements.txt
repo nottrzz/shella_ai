@@ -1,2 +1,6 @@
 streamlit
 groq
+pillow
+pypdf2
+python-docx
+pandas
